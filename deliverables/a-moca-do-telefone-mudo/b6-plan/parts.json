@@ -1,0 +1,39 @@
+{
+  "parts": [
+    {
+      "part": 1,
+      "beats": [
+        1,
+        2,
+        3
+      ],
+      "start": 0.0,
+      "end": 25.34,
+      "seconds": 25.04
+    },
+    {
+      "part": 2,
+      "beats": [
+        4,
+        5,
+        6
+      ],
+      "start": 25.34,
+      "end": 53.14,
+      "seconds": 27.8
+    },
+    {
+      "part": 3,
+      "beats": [
+        7,
+        8,
+        9
+      ],
+      "start": 53.14,
+      "end": 79.72,
+      "seconds": 26.58
+    }
+  ],
+  "max_part_seconds": 90,
+  "note": "Each part <= 1:30; cuts at beat boundaries."
+}
