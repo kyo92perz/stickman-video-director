@@ -1,10 +1,8 @@
-# Storyboard frame progress: 58 of 72 (8 per beat, 9 beats)
+# Storyboard frame progress: 67 of 72 (8 per beat, 9 beats)
 
-Remaining: 14 frames.
-- beat07: slots 7-8 (2)
-- beat08: slots 4-8 (5)
-- beat09: slots 2-8 (7)
+Remaining: 5 frames.
+- beat09: slots 5-8 (4)
 
-Complete: beats 01-06 (8 each).
+Complete: beats 01-08 (8 each); beat09 has slots 1-4.
 
 Prompt style: "Painted storyboard frame, portrait 9:16, <palette>, matte painted textures, heavy black ink outlines. <subject>. No text, no border."
