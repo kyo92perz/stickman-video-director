@@ -1,6 +1,6 @@
-# Storyboard frame progress: 67 of 72 (8 per beat, 9 beats)
+# Storyboard frame progress: 68 of 72 (8 per beat, 9 beats)
 
-Remaining: 5 frames.
+Remaining: 4 frames.
 - beat09: slots 5-8 (4)
 
 Complete: beats 01-08 (8 each); beat09 has slots 1-4.
