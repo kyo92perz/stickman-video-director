@@ -1,16 +1,15 @@
-# A Moça do Telefone Mudo — B6 status
+# A Moça do Telefone Mudo — B6 status (Parte 1)
 
-Decisions recorded from the user:
-- Language: pt-BR narration. Caption profile is the existing locked `eiffel-v44-portrait-archivo-black-v1` (Archivo Black). All pt-BR glyphs (áéíóúâêôãõàç and capitals) are present in fonts/ArchivoBlack.ttf (checked with fontTools). The language is a user-directed deviation from the English-only portrait profile, recorded here per the caption policy. The engine is unchanged.
-- Production: full (painted characters per view + painted worlds). Image generation approved.
+Route chosen by user: B6. Plan: Part 1 (beats 1-3, 0-25.34 s) first as a test of the V44 standard.
 
-Done:
-- Narration master: ../audio-master/master-narration.wav (79.72 s), timing in ../audio-master/timing.json
-- Story beats: story.json; portrait shot plan (9 shots): portrait-plan.json; captions.json with ESTIMATED timings (proportional to characters, must be realigned to the recording before approval)
-- Style test: art/narrator-front.png (front view, cream canvas, not alpha-cut). Stick limbs and ink direction look right; not yet validated against the V44 standard.
+Art generated (b6-plan/art/, not yet cut into alpha sprites):
+- narrator-front.png (style test, earlier)
+- narrator-three-quarter.png, narrator-side.png
+- eunice-front.png, eunice-three-quarter.png, eunice-side.png
+- world-living-room.png (empty, Part 1 beat 1-2)
+- world-house-1987.png (empty, Part 1 beat 3)
 
-Not done (blockers for render):
-- Per-view painted packages (front, three_quarter, side) for narrator, Dona Eunice and the lady in white: body/head sprites with alpha, arm/leg sockets, cuffs, neck attachment, calibrated poses.
-- Painted worlds: 1987 house, hallway, bedroom, city map.
-- scene.py (puppet runtime), real word-level caption alignment, mix, preview/motion review.
-- Renders take ~20 min each on this 2-CPU sandbox.
+Not done for Part 1:
+- Alpha cutout of each view (body, head, arms, cuffs, legs), neck attachment, arm sockets/poses.
+- Character packages in the project; characters.json.
+- scene.py for beats 1-3; caption timing realignment; render; motion review.
