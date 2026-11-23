@@ -11,7 +11,7 @@ Per-beat slots still missing (of 8):
 - beat07: slots 6-8 (3)
 - beat08: slots 4-8 (5)
 - beat09: slots 2-8 (7)
-Remaining: 35 frames.
+Remaining: 33 frames.
 
 Current beat files: beat01-2..5, beat02-2..5, beat03-2..5, beat04-2..5, beat05-2..5, beat06-2..5, beat07-2..5, beat08-2..3.
 Slot 1 of every beat is frame-0N.png.
