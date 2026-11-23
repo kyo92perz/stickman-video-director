@@ -1,0 +1,67 @@
+{
+  "narration": "Se o seu telefone fixo tocar de madrugada e ninguém responder do outro lado, não atenda. Mas se atender, não diga nada. Todo mundo acha que um telefone mudo é só defeito na linha. Não é. Em 1987, a família mandou cortar a linha de uma casa abandonada. Mas o telefone continuou tocando, às três da manhã. A vizinha, Dona Eunice, atendeu uma vez. Ouviu uma respiração lenta e, depois, o próprio nome sussurrado. Ela anotou o número no caderno. Não existia. Mas o código de área era o da casa dela. Três noites depois, o telefone tocou de novo. Dessa vez, a voz falou baixinho: ainda não é hora. Ninguém sabe quem é a moça do telefone mudo. Só se sabe que ela liga para quem já ouviu a voz dela. Na última ligação, a voz era de uma mulher de vestido branco, sentada na beira da cama, com o fone encostado no ouvido. Se tocar de madrugada, não atenda. E se você já atendeu... ela já sabe o seu nome.",
+  "status": "pending_user_review_storyboard_approved",
+  "language": "pt-BR",
+  "voice": {
+    "name": "voice-01",
+    "path": "audio-master/master-narration.wav",
+    "speed": 1,
+    "total_seconds": 79.72
+  },
+  "beats": [
+    {
+      "start": 0,
+      "end": 9.86,
+      "id": "hook",
+      "action": "Telefone de baquelite toca na sala escura; narrador olha para a câmera; zoom lento no aparelho."
+    },
+    {
+      "start": 9.86,
+      "end": 15.34,
+      "id": "expectation_break",
+      "action": "Narrador no sofá, cético; expressão muda para desconfiança."
+    },
+    {
+      "start": 15.34,
+      "end": 25.34,
+      "id": "house_1987",
+      "action": "Casa abandonada, janela quebrada, fio de telefone solto; pan lateral lento."
+    },
+    {
+      "start": 25.34,
+      "end": 35.34,
+      "id": "eunice_answers",
+      "action": "Dona Eunice no corredor, fone no ouvido, abajur piscando; câmera treme com a respiração."
+    },
+    {
+      "start": 35.34,
+      "end": 42.82,
+      "id": "notebook_proof",
+      "action": "Caderno aberto, número riscado; insert e pulso vermelho no código de área."
+    },
+    {
+      "start": 42.82,
+      "end": 53.14,
+      "id": "voice_speaks",
+      "action": "Eunice na beira da cama de camisola; câmera sobe ao rosto; luz pisca."
+    },
+    {
+      "start": 53.14,
+      "end": 61.02,
+      "id": "map_myth",
+      "action": "Mapa estilizado da cidade com alfinetes; câmera desliza sobre o mapa."
+    },
+    {
+      "start": 61.02,
+      "end": 70.82,
+      "id": "white_dress",
+      "action": "Quarto escuro, silhueta de vestido branco com fone; corte entre silhueta e Eunice; reflexo no espelho."
+    },
+    {
+      "start": 70.82,
+      "end": 79.72,
+      "id": "final_question",
+      "action": "Telefone toca de novo sobre a mesinha; zoom out lento; corte no toque."
+    }
+  ]
+}

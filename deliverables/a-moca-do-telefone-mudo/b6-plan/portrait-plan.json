@@ -1,0 +1,117 @@
+{
+  "ratio": "9:16",
+  "native_design": "9:16",
+  "width": 720,
+  "height": 1280,
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0,
+      "end": 9.86,
+      "composition": "9:16 portrait, sujeito centralizado, respiro no topo para a legenda na faixa 864–951.",
+      "action": "Telefone de baquelite toca na sala escura; narrador olha para a câmera; zoom lento no aparelho.",
+      "camera": "Movimento lento e contínuo, sem corte de câmera dentro do plano.",
+      "transition": "Corte seco ao próximo beat."
+    },
+    {
+      "id": "s2",
+      "start": 9.86,
+      "end": 15.34,
+      "composition": "9:16 portrait, sujeito centralizado, respiro no topo para a legenda na faixa 864–951.",
+      "action": "Narrador no sofá, cético; expressão muda para desconfiança.",
+      "camera": "Movimento lento e contínuo, sem corte de câmera dentro do plano.",
+      "transition": "Corte seco ao próximo beat."
+    },
+    {
+      "id": "s3",
+      "start": 15.34,
+      "end": 25.34,
+      "composition": "9:16 portrait, sujeito centralizado, respiro no topo para a legenda na faixa 864–951.",
+      "action": "Casa abandonada, janela quebrada, fio de telefone solto; pan lateral lento.",
+      "camera": "Movimento lento e contínuo, sem corte de câmera dentro do plano.",
+      "transition": "Corte seco ao próximo beat."
+    },
+    {
+      "id": "s4",
+      "start": 25.34,
+      "end": 35.34,
+      "composition": "9:16 portrait, sujeito centralizado, respiro no topo para a legenda na faixa 864–951.",
+      "action": "Dona Eunice no corredor, fone no ouvido, abajur piscando; câmera treme com a respiração.",
+      "camera": "Movimento lento e contínuo, sem corte de câmera dentro do plano.",
+      "transition": "Corte seco ao próximo beat."
+    },
+    {
+      "id": "s5",
+      "start": 35.34,
+      "end": 42.82,
+      "composition": "9:16 portrait, sujeito centralizado, respiro no topo para a legenda na faixa 864–951.",
+      "action": "Caderno aberto, número riscado; insert e pulso vermelho no código de área.",
+      "camera": "Movimento lento e contínuo, sem corte de câmera dentro do plano.",
+      "transition": "Corte seco ao próximo beat."
+    },
+    {
+      "id": "s6",
+      "start": 42.82,
+      "end": 53.14,
+      "composition": "9:16 portrait, sujeito centralizado, respiro no topo para a legenda na faixa 864–951.",
+      "action": "Eunice na beira da cama de camisola; câmera sobe ao rosto; luz pisca.",
+      "camera": "Movimento lento e contínuo, sem corte de câmera dentro do plano.",
+      "transition": "Corte seco ao próximo beat."
+    },
+    {
+      "id": "s7",
+      "start": 53.14,
+      "end": 61.02,
+      "composition": "9:16 portrait, sujeito centralizado, respiro no topo para a legenda na faixa 864–951.",
+      "action": "Mapa estilizado da cidade com alfinetes; câmera desliza sobre o mapa.",
+      "camera": "Movimento lento e contínuo, sem corte de câmera dentro do plano.",
+      "transition": "Corte seco ao próximo beat."
+    },
+    {
+      "id": "s8",
+      "start": 61.02,
+      "end": 70.82,
+      "composition": "9:16 portrait, sujeito centralizado, respiro no topo para a legenda na faixa 864–951.",
+      "action": "Quarto escuro, silhueta de vestido branco com fone; corte entre silhueta e Eunice; reflexo no espelho.",
+      "camera": "Movimento lento e contínuo, sem corte de câmera dentro do plano.",
+      "transition": "Corte seco ao próximo beat."
+    },
+    {
+      "id": "s9",
+      "start": 70.82,
+      "end": 79.72,
+      "composition": "9:16 portrait, sujeito centralizado, respiro no topo para a legenda na faixa 864–951.",
+      "action": "Telefone toca de novo sobre a mesinha; zoom out lento; corte no toque.",
+      "camera": "Movimento lento e contínuo, sem corte de câmera dentro do plano.",
+      "transition": "Corte seco ao próximo beat."
+    }
+  ],
+  "cast_inventory": [
+    {
+      "id": "narrator",
+      "role": "Narrador, homem comum",
+      "shot_ids": [
+        "s1",
+        "s2",
+        "s9"
+      ]
+    },
+    {
+      "id": "eunice",
+      "role": "Dona Eunice",
+      "shot_ids": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "id": "lady",
+      "role": "Moça do telefone, silhueta de vestido branco",
+      "shot_ids": [
+        "s8"
+      ]
+    }
+  ],
+  "status": "plan_only_no_paintings_or_characters_yet"
+}
